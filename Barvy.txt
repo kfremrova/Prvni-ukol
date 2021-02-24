@@ -1,0 +1,12 @@
+potřebuju barvy min.: 3 pozadí
+			text
+			patička
+
+
+#ae1608 - šála, červená,
+#fff3c1 - slunce, sv. žlutá
+#d3d1dc - nebe, světle modrá, hlavní pozadí
+#afb5cf - led, temnější modrá, patička
+#222328 - kabát, skoro černá, písmo
+
+
