@@ -1,95 +1,104 @@
 body {
-    color: #222328;
-    background-color: #d3d1dc;
-    margin: 0px;
-    font-size: 20px;
-    line-height: 1.5;
-    font-family: cursive;
+  color: #222328;
+  background-color: #d3d1dc;
+  margin: 0px;
+  font-size: 20px;
+  line-height: 1.5;
+  font-family: cursive;
+}
+
+.duo1,
+.kontakt {
+    display: inline-block;
 }
 
 .hlavicka {
-    background-image: url(Fotky/Hlavička.JPG);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 120px 50px;
+  background-image: url(Fotky/Hlavicka.JPG);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 120px 50px;
 }
 
 section {
-    padding: 25px 7%;
-    overflow: auto;
-    margin: 0px 15%;
-    background-color:#fff3c1;
-    overflow: auto;
+  padding: 25px 7%;
+  overflow: auto;
+  margin: 0px 15%;
+  background-color: #fff3c1;
+  overflow: auto;
 }
 
 h1 {
-    font-size: 90px;
-    text-align: end;
-    }
+  font-size: 90px;
+  text-align: end;
+}
 
 a {
-    color: #ae1608;
+  color: #ae1608;
 }
 
 a:hover,
 a:focus,
 a:active {
-    background-color: #d3d1dc;
+  background-color: #d3d1dc;
 }
 
-.uvod table {width: 100%;
+.uvod table {
+  width: 100%;
 }
 
-.kontakt {background-color: #afb5cf;
-    width: 45%;
-    padding-left: 40px;
-    padding-right: 10px;
-    padding-bottom: 15px;
-    font-size: 18px; 
+.kontakt {
+  background-color: #afb5cf;
+  width: 40%;
+  padding-left: 40px;
+  padding-right: 10px;
+  padding-bottom: 15px;
+  font-size: 18px;
 }
-h4 {margin-bottom: 10px;}
+
+.kontakt ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+h4 {
+  margin-bottom: 10px;
+}
 
 .introvert img,
 .studentka img {
-    height: 200px;
-    border-radius: 30px;
-    float: left;
-    margin: 20px;
+  height: 200px;
+  border-radius: 30px;
+  float: left;
+  margin: 20px;
 }
 
 .ctenarka img,
 .finsko img {
-    width: 200px;
-    border-radius: 30px;
-    float: right;
-    margin: 20px;
+  width: 200px;
+  border-radius: 30px;
+  float: right;
+  margin: 20px;
 }
 
 .tanecnice img {
-    width: 200px;
-    border-radius: 30px;
-    float: left;
-    margin: 20px;
+  width: 200px;
+  border-radius: 30px;
+  float: left;
+  margin: 20px;
 }
 
 .mama img {
-    width: 300px;
-    border-radius: 50%;       
+  width: 300px;
+  border-radius: 50%;
 }
 
 .iris {
-    text-align: center;
+  text-align: center;
 }
 
 .paticka {
-    background-color: #afb5cf;
-    padding: 35px;  
-    text-align: center;  
+  background-color: #afb5cf;
+  padding: 35px;
+  text-align: center;
 }
-
-
-
-
-
-
